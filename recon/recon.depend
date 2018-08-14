@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525616789 source:c:\users\saurabh goel\desktop\recon\rocon.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1524316690 source:c:\users\saurabh goel\desktop\recon\resource.rc
+
